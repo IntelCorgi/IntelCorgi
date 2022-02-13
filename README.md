@@ -1,16 +1,29 @@
-### Hi there 👋
+## 💻 Whoami:
+----
+- 🔭 Cyber Threat Intelligence Analyst
+- 🕵️ Open Source Intelligence Specialst
+- :microbe: Currently learning: malware analysis
+- 😄 Pronouns:  he/him
 
-<!--
-**Skykn0t/Skykn0t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⬇️Follow me through the cyber hellscape⬇️
+[![Twitter](https://img.shields.io/twitter/follow/IntelCorgi?style=social)](https://twitter.com/IntelCorgi)
+[![Website](https://img.shields.io/badge/blog:medium-green)](https://intelcorgi.medium.com/)
 
-Here are some ideas to get you started:
+## Publications:
+----
+| Date | Title |
+| --- | --- |
+08/ 2020 | [ScamNation: Monetizing the Pandemic Through Partisan Content Farms and Subscription Traps](https://www.riskiq.com/wp-content/uploads/2020/08/ScamNation-RiskIQ-Report.pdf) |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Presentations:
+----
+| Date | Conference | Title |
+| --- | --- | --- |
+| 11/2021 | [ConINT 2021](https://conint.io/) | Improving Your OSINT Skills by Inconveniencing Scammers |
+
+
+
+
+
+
