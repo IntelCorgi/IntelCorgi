@@ -2,7 +2,7 @@
 ----
 - 🔭 Cyber Threat Intelligence Analyst
 - 🕵️ Open Source Intelligence Specialst
-- :microbe: Currently learning: malware analysis
+- :microbe: Currently learning: malware RE and detection engineering
 - 😄 Pronouns:  he/him
 
 ### ⬇️Follow me through the cyber hellscape⬇️
