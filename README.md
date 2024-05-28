@@ -7,7 +7,7 @@
 
 ### ⬇️Follow me through the cyber hellscape⬇️
 [![Twitter](https://img.shields.io/twitter/follow/IntelCorgi?style=social)](https://twitter.com/IntelCorgi)
-[![Website](https://img.shields.io/badge/blog:github-pages)](https://IntelCorgi.github.io/)
+[![Website](https://img.shields.io/badge/intelcorgi.com-blue)](https://IntelCorgi.com/)
 
 ## Publications:
 ----
