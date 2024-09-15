@@ -1,7 +1,7 @@
 ## 💻 Whoami:
 ----
 - 🔭 Cyber Threat Intelligence Analyst
-- 🕵️ Open Source Intelligence Specialst
+- 🕵️ Open Source Intelligence Specialist
 - :microbe: Currently learning: malware RE and detection engineering
 - 😄 Pronouns:  he/him
 
